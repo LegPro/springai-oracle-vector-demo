@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=ojdbc11.jar  -DgroupId=com.oracle.database.jdbc  -DartifactId=ojdbc11  -Dversion=23.5.0.24.07  -Dpackaging=jar
